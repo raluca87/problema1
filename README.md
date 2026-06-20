@@ -1,3 +1,4 @@
+```c
 ## Problema 1
 
 # Functii:
@@ -25,3 +26,4 @@ egal in lungime cu cel de-al doilea. Apoi prin intermediul functiilor
 transform_caracter si transform_index se construieste sirul rez, care contine
 parola criptata. Cazul "INVALID" este realizat prin apelarea functiei
 verif_caracter, mai precis a valorii zero.
+```
